@@ -21,7 +21,7 @@
     <linkfile src="os_pickup.bp" dest="vendor/nxp/opensource/sn100x/Android.bp" />
     <linkfile src="os_pickup.mk" dest="vendor/nxp/opensource/sn100x/Android.mk" />
   </project>
-  <project path="hardware/qcom-caf/msm8952/audio" name="LineageOS/android_hardware_qcom_audio" revision="lineage-17.1-caf-msm8952" remote="github" />
+  <project path="hardware/qcom-caf/msm8952/audio" name="ArrowOS/android_hardware_qcom_audio" revision="arrow-10.0-caf-8952" remote="github" />
   <project path="hardware/qcom-caf/msm8952/display" name="LineageOS/android_hardware_qcom_display" revision="lineage-17.1-caf-msm8952" remote="github" />
   <project path="hardware/qcom-caf/msm8952/media" name="LineageOS/android_hardware_qcom_media" revision="lineage-17.1-caf-msm8952" remote="github" />
   <project path="hardware/qcom-caf/thermal" name="android_hardware_qcom_thermal" remote="lineage" />
@@ -72,7 +72,7 @@
   <!-- External repos -->
   <project path="external/chromium-webview" name="AOSP-10/external_chromium-webview" revision="10" remote="github" />
   <project path="external/selinux" name="AOSP-10/external_selinux" revision="10" remote="github" />
-  <project path="external/tinycompress" name="AOSP-10/external_tinycompress" revision="10" remote="github" />
+  <project path="external/tinycompress" name="Rockzyrain/external_tinycompress" revision="android-10" remote="github" />
 
   <!-- Framework repos -->
   <project path="frameworks/av" name="AOSP-10/frameworks_av" revision="10" remote="github" />
