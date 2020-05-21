@@ -1,0 +1,1 @@
+# aosp_shamrock_local_manifest
