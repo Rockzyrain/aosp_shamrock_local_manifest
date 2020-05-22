@@ -113,13 +113,5 @@
   <!-- Platform repos -->
   <project path="libcore" name="mvaisakh/libcore" revision="ten" remote="github" />
   <project path="art" name="mvaisakh/art" revision="ten" remote="github" />
-  
-   <!-- opengapps repos -->
-   <project path="vendor/opengapps/build" name="aosp_build" remote="gapps-hub" />
-   <project path="vendor/opengapps/sources/all" name="all" clone-depth="1" remote="gapps-lab" />
-   <project path="vendor/opengapps/sources/arm" name="arm" clone-depth="1" remote="gapps-lab" />
-   <project path="vendor/opengapps/sources/arm64" name="arm64" clone-depth="1" remote="gapps-lab" />
-   <project path="vendor/opengapps/sources/x86" name="x86" clone-depth="1" remote="gapps-lab" />
-   <project path="vendor/opengapps/sources/x86_64" name="x86_64" clone-depth="1" remote="gapps-lab" />
 
 </manifest>

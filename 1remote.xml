@@ -5,10 +5,4 @@
   <remote name="lineage"
           fetch="https://github.com/LineageOS"
           revision="lineage-17.1" />
-  <remote name="gapps-hub"
-          fetch="https://github.com/opengapps/"
-          revision="master" />
-  <remote name="gapps-lab"
-          fetch="https://gitlab.opengapps.org/opengapps/"
-          revision="master" />
 </manifest>
